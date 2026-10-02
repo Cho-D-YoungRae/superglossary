@@ -1,5 +1,15 @@
 # superglossary
 
+> [!IMPORTANT]
+> **이 저장소는 보관(archive)되어 더 이상 갱신되지 않습니다.** superglossary는 [Cho-D-YoungRae/superkit](https://github.com/Cho-D-YoungRae/superkit/tree/main/plugins/superglossary)으로 옮겼고, 이 저장소의 커밋 이력도 그대로 그곳에 있습니다.
+>
+> 설치는 superkit 마켓플레이스에서 합니다. 예전에 이 저장소를 마켓플레이스로 추가했다면 먼저 지웁니다(`/plugin marketplace remove superglossary`).
+>
+> ```
+> /plugin marketplace add Cho-D-YoungRae/superkit
+> /plugin install superglossary@superkit
+> ```
+
 프로젝트 용어사전 — 프로젝트별 도메인 용어를 파일로 관리하고, Claude가 일관된 용어를 사용하도록 돕는 [Claude Code](https://code.claude.com) 플러그인입니다. 개발자와 Claude가 **같은 용어집**을 참조해, 같은 개념을 매번 다르게 번역하는 일(청구 → claim / billing / charge)을 막습니다.
 
 ## 핵심 개념
